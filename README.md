@@ -32,6 +32,20 @@
 
 ```
 
+
+## Instructions to run 🏃 
+
+```make help```
+```make decision_tree```
+```make iris```
+```make real_estate```
+```make experiments```
+```make adaboost```
+```make bagging```
+```make random_forest```
+```make random_forest_iris```
+
+
 ## Time and Sampling plots: ⏰ 
 
 ### DIDO Training
